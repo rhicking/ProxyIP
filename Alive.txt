@@ -1,5 +1,52 @@
-103.151.140.220,14331,ID,PT Indotechno Digital Komputasi
-156.244.1.250,8443,ID,Kaopu Cloud HK
+92.62.241.2,443,ID,PT Ikubaru Indonesia
+92.62.241.8,443,ID,PT Ikubaru Indonesia
+92.62.241.12,443,ID,PT Ikubaru Indonesia
+92.62.241.15,443,ID,PT Ikubaru Indonesia
+92.62.241.16,443,ID,PT Ikubaru Indonesia
+92.62.241.28,443,ID,PT Ikubaru Indonesia
+92.62.241.30,443,ID,PT Ikubaru Indonesia
+92.62.241.32,443,ID,PT Ikubaru Indonesia
+92.62.241.224,443,ID,PT Ikubaru Indonesia
+92.62.241.225,443,ID,PT Ikubaru Indonesia
+92.62.241.226,443,ID,PT Ikubaru Indonesia
+92.62.241.227,443,ID,PT Ikubaru Indonesia
+92.62.241.228,443,ID,PT Ikubaru Indonesia
+92.62.241.230,443,ID,PT Ikubaru Indonesia
+92.62.241.232,443,ID,PT Ikubaru Indonesia
+92.62.241.234,443,ID,PT Ikubaru Indonesia
+92.62.241.236,443,ID,PT Ikubaru Indonesia
+92.62.241.237,443,ID,PT Ikubaru Indonesia
+92.62.241.240,443,ID,PT Ikubaru Indonesia
+92.62.241.242,443,ID,PT Ikubaru Indonesia
+92.62.241.243,443,ID,PT Ikubaru Indonesia
+92.62.241.244,443,ID,PT Ikubaru Indonesia
+92.62.241.245,443,ID,PT Ikubaru Indonesia
+92.62.241.246,443,ID,PT Ikubaru Indonesia
+92.62.241.251,443,ID,PT Ikubaru Indonesia
+103.87.70.156,11012,ID,PT Abhinawa Sumberdaya Asia
+103.87.70.156,11017,ID,PT Abhinawa Sumberdaya Asia
+103.87.70.156,11043,ID,PT Abhinawa Sumberdaya Asia
+103.87.70.156,11093,ID,PT Abhinawa Sumberdaya Asia
+103.87.70.156,11105,ID,PT Abhinawa Sumberdaya Asia
+103.87.70.156,11139,ID,PT Abhinawa Sumberdaya Asia
+103.87.70.156,11162,ID,PT Abhinawa Sumberdaya Asia
+103.87.70.156,11193,ID,PT Abhinawa Sumberdaya Asia
+103.87.70.156,11197,ID,PT Abhinawa Sumberdaya Asia
+103.87.70.156,11211,ID,PT Abhinawa Sumberdaya Asia
+103.87.70.156,11215,ID,PT Abhinawa Sumberdaya Asia
+103.87.70.156,11222,ID,PT Abhinawa Sumberdaya Asia
+45.196.29.81,443,ID,Cloudflare, Inc.
+45.196.29.178,443,ID,Cloudflare, Inc.
+45.196.29.161,443,ID,Cloudflare, Inc.
+45.196.29.71,443,ID,Cloudflare, Inc.
+45.196.29.209,443,ID,Cloudflare, Inc.
+45.196.29.93,443,ID,Cloudflare, Inc.
+45.196.29.52,443,ID,Cloudflare, Inc.
+8.215.57.14,443,ID,Alibaba (US) Technology Co., Ltd.
+8.215.62.115,4443,ID,Alibaba (US) Technology Co., Ltd.
+147.139.140.61,443,ID,Alibaba (US) Technology Co., Ltd.
+8.215.45.203,443,ID,Alibaba (US) Technology Co., Ltd.
+147.139.130.190,39738,ID,Alibaba (US) Technology Co., Ltd.
 103.119.54.24,2083,ID,PT. Eka Mas Republik
 103.119.54.24,2087,ID,PT. Eka Mas Republik
 103.119.54.24,2096,ID,PT. Eka Mas Republik
@@ -7,26 +54,38 @@
 103.119.54.24,2053,ID,PT. Eka Mas Republik
 103.119.54.24,443,ID,PT. Eka Mas Republik
 36.95.152.58,12137,ID,PT Telekomunikasi Indonesia
+36.95.152.58,18134,ID,PT Telekomunikasi Indonesia
 203.194.112.119,2053,ID,CV Rumahweb Indonesia
 203.194.112.119,8443,ID,CV Rumahweb Indonesia
+110.232.84.127,39738,ID,PT. Media Antar Nusa
+110.232.84.139,39738,ID,PT. Media Antar Nusa
+110.232.84.141,39738,ID,PT. Media Antar Nusa
+110.232.84.142,39738,ID,PT. Media Antar Nusa
+110.232.84.145,39738,ID,PT. Media Antar Nusa
+110.232.84.153,39738,ID,PT. Media Antar Nusa
+110.232.84.184,39738,ID,PT. Media Antar Nusa
+110.232.84.194,39738,ID,PT. Media Antar Nusa
+202.155.138.5,36455,ID,PT. Media Antar Nusa
 103.6.207.108,8080,ID,PT Pusat Media Indonesia
-149.129.250.8,443,ID,Alibaba (US) Technology Co., Ltd.
 43.218.77.16,443,ID,Amazoncom Inc.
 43.218.77.16,1443,ID,Amazon.com, Inc.
-206.84.101.83,8443,ID,PT MITRA VISIONER PRATAMA
-172.232.234.198,443,ID,Akamai Technologies, Inc.
-172.232.234.62,443,ID,Akamai Technologies, Inc.
-172.232.234.155,443,ID,Akamai Technologies, Inc.
-172.232.234.155,12306,ID,Akamai Technologies, Inc.
-172.232.234.155,20205,ID,Akamai Technologies, Inc.
-172.232.234.155,4399,ID,Akamai Technologies, Inc.
-172.232.234.155,32225,ID,Akamai Technologies, Inc.
-172.232.234.155,386,ID,Akamai Technologies, Inc.
-172.232.234.166,443,ID,Akamai Technologies, Inc.
-172.232.234.166,486,ID,Akamai Technologies, Inc.
 172.232.234.20,443,ID,Akamai Technologies, Inc.
 172.232.234.20,12306,ID,Akamai Technologies, Inc.
 172.232.234.20,386,ID,Akamai Technologies, Inc.
+31.97.50.106,443,ID,Hostinger International Limited
+103.94.238.212,443,ID,PT Biznet Gio Nusantara
+70.153.80.70,25954,ID,Microsoft Corporation
+46.254.92.225,443,ID,Cloudflare London, LLC
+46.254.92.84,443,ID,Cloudflare London, LLC
+46.254.93.229,443,ID,Cloudflare London, LLC
+46.254.93.24,443,ID,Cloudflare London, LLC
+46.254.93.114,443,ID,Cloudflare London, LLC
+46.254.93.236,443,ID,Cloudflare London, LLC
+46.254.92.196,443,ID,Cloudflare London, LLC
+46.254.92.67,443,ID,Cloudflare London, LLC
+46.254.92.57,443,ID,Cloudflare London, LLC
+46.254.92.150,443,ID,Cloudflare London, LLC
+46.254.92.226,443,ID,Cloudflare London, LLC
 46.254.92.166,443,ID,Cloudflare London, LLC
 46.254.92.166,8443,ID,Cloudflare London, LLC
 46.254.92.146,443,ID,Cloudflare London, LLC
@@ -37,27 +96,63 @@
 46.254.92.143,443,ID,Cloudflare London, LLC
 46.254.92.27,443,ID,Cloudflare London, LLC
 46.254.93.246,443,ID,Cloudflare London, LLC
+130.94.93.23,443,ID,NTT America, Inc.
+35.240.234.21,56821,SG,Google LLC
+34.124.247.140,32137,SG,Google LLC
+34.126.151.59,18201,SG,Google LLC
+34.143.159.175,443,SG,Google LLC
+34.87.63.149,10597,SG,Google LLC
+35.240.163.74,54235,SG,Google LLC
+34.143.147.69,27272,SG,Google LLC
 103.117.151.111,2053,TH,Siamdata Communication Co.ltd
 47.81.9.160,443,TH,Alibaba Cloud LLC
 91.192.81.154,2053,SG,Melbikomas UAB
 185.81.28.95,30503,SG,AKILE LTD
-64.49.14.41,2053,SG,Internet Utilities NA LLC
-43.156.107.236,12131,SG,6 COLLYER QUAY
 194.127.193.124,24467,SG,Greencloud LLC
-206.206.77.53,443,SG,REGXA LLC
-206.189.85.0,443,SG,DigitalOcean, LLC
-146.190.107.103,443,SG,DigitalOcean, LLC
-165.232.166.115,8443,SG,DigitalOcean, LLC
+94.74.83.173,13387,SG,HUAWEI INTERNATIONAL PTE. LTD.
+166.108.238.231,14664,SG,HUAWEI INTERNATIONAL PTE. LTD.
+188.239.21.47,8443,SG,HUAWEI INTERNATIONAL PTE. LTD.
+166.108.194.78,53480,SG,HUAWEI INTERNATIONAL PTE. LTD.
+111.119.248.173,17916,SG,HUAWEI INTERNATIONAL PTE. LTD.
+188.239.19.177,443,SG,HUAWEI INTERNATIONAL PTE. LTD.
+166.108.234.24,443,SG,HUAWEI INTERNATIONAL PTE. LTD.
+139.162.4.242,8443,SG,Akamai Technologies, Inc.
+172.104.47.227,6898,SG,Akamai Technologies, Inc.
+192.53.117.76,6898,SG,Akamai Technologies, Inc.
+139.162.39.180,6898,SG,Akamai Technologies, Inc.
+172.104.187.69,6898,SG,Akamai Technologies, Inc.
+192.46.225.27,6898,SG,Akamai Technologies, Inc.
+139.162.47.153,6898,SG,Akamai Technologies, Inc.
+139.162.47.88,6898,SG,Akamai Technologies, Inc.
+172.104.36.5,6898,SG,Akamai Technologies, Inc.
+172.104.178.109,443,SG,Akamai Technologies, Inc.
+172.236.145.69,443,SG,Akamai Technologies, Inc.
 128.199.134.152,443,SG,DigitalOcean, LLC
+178.128.80.43,443,SG,DigitalOcean, LLC
+178.128.86.3,443,SG,DigitalOcean, LLC
+157.230.244.86,443,SG,DigitalOcean, LLC
+128.199.181.94,8443,SG,DigitalOcean, LLC
+68.183.183.109,53934,SG,DigitalOcean, LLC
+178.128.27.8,443,SG,DigitalOcean, LLC
+159.65.138.96,8443,SG,DigitalOcean, LLC
 139.59.104.29,443,SG,DigitalOcean, LLC
 167.99.73.22,443,SG,DigitalOcean, LLC
-143.198.222.82,3128,SG,DigitalOcean, LLC
-167.71.198.82,443,SG,DigitalOcean, LLC
-143.198.196.196,8443,SG,DigitalOcean LLC
-143.198.196.196,2053,SG,DigitalOcean LLC
-43.165.191.216,443,SG,Shenzhen Tencent Computer Systems Company Limited
+146.190.84.131,35716,SG,DigitalOcean, LLC
+152.42.162.1,443,SG,DigitalOcean, LLC
+167.71.219.20,25355,SG,DigitalOcean, LLC
+139.59.103.224,3939,SG,DigitalOcean, LLC
+178.128.48.213,47659,SG,DigitalOcean, LLC
+146.190.99.125,443,SG,DigitalOcean, LLC
+146.190.195.120,35716,SG,DigitalOcean, LLC
+43.160.250.162,39738,SG,Shenzhen Tencent Computer Systems Company Limited
+43.153.199.210,38011,SG,Shenzhen Tencent Computer Systems Company Limited
+43.156.97.130,59234,SG,Shenzhen Tencent Computer Systems Company Limited
+43.156.46.148,443,SG,Shenzhen Tencent Computer Systems Company Limited
+43.134.95.190,44040,SG,Shenzhen Tencent Computer Systems Company Limited
+119.28.101.207,39738,SG,Shenzhen Tencent Computer Systems Company Limited
+43.128.109.135,39738,SG,Shenzhen Tencent Computer Systems Company Limited
+43.134.174.114,443,SG,Shenzhen Tencent Computer Systems Company Limited
 43.156.36.246,6601,SG,Shenzhen Tencent Computer Systems Company Limited
-43.160.202.92,443,SG,Shenzhen Tencent Computer Systems Company Limited
 154.194.12.154,2083,SG,Cloudflare London, LLC
 154.194.12.159,2083,SG,Cloudflare London, LLC
 154.194.12.250,2083,SG,Cloudflare London, LLC
@@ -66,185 +161,118 @@
 154.194.12.201,443,SG,Cloudflare London, LLC
 154.194.12.201,8443,SG,Cloudflare London, LLC
 154.194.12.44,2053,SG,Cloudflare London, LLC
-52.221.189.27,443,SG,Amazon Data Services Singapore
+18.136.34.79,57945,SG,Amazon.com, Inc.
+13.250.131.37,443,SG,Amazon.com, Inc.
+18.138.255.248,10001,SG,Amazon.com, Inc.
+47.129.181.62,443,SG,Amazon.com, Inc.
+13.250.1.123,2443,SG,Amazon.com, Inc.
+52.76.110.129,20001,SG,Amazon.com, Inc.
+3.0.58.86,8443,SG,Amazon.com, Inc.
+13.212.185.207,8443,SG,Amazon.com, Inc.
+3.1.94.232,443,SG,Amazon.com, Inc.
+47.130.88.198,443,SG,Amazon.com, Inc.
+13.250.31.132,443,SG,Amazon.com, Inc.
+18.141.93.137,443,SG,Amazon.com, Inc.
 47.130.35.116,8888,SG,Amazon Data Services Singapore
-13.250.131.37,443,SG,Amazon Data Services Singapore
-3.1.116.161,8443,SG,Amazon Data Services Singapore
-3.1.116.161,2053,SG,Amazon Data Services Singapore
-47.245.85.72,443,SG,Alibaba Cloud LLC
-8.219.14.21,23943,SG,Alibaba Cloud Singapore Private Limited
+8.219.56.26,40011,SG,Alibaba (US) Technology Co., Ltd.
+47.245.80.160,58443,SG,Alibaba (US) Technology Co., Ltd.
+8.222.220.81,25435,SG,Alibaba (US) Technology Co., Ltd.
+47.236.167.173,57102,SG,Alibaba (US) Technology Co., Ltd.
+47.236.191.182,39738,SG,Alibaba (US) Technology Co., Ltd.
+8.219.153.116,59786,SG,Alibaba (US) Technology Co., Ltd.
+47.79.123.243,25170,SG,Alibaba (US) Technology Co., Ltd.
+8.219.110.22,27488,SG,Alibaba (US) Technology Co., Ltd.
+47.236.119.208,15210,SG,Alibaba (US) Technology Co., Ltd.
+8.219.155.125,443,SG,Alibaba (US) Technology Co., Ltd.
+8.219.1.169,443,SG,Alibaba (US) Technology Co., Ltd.
 8.219.77.72,5027,SG,Alibaba Cloud Singapore Private Limited
-8.219.126.137,491,SG,Alibaba Cloud Singapore Private Limited
-8.219.59.132,48964,SG,Alibaba Cloud Singapore Private Limited
-8.222.159.134,12314,SG,Alibaba Cloud Singapore Private Limited
-8.219.59.132,48130,SG,Alibaba Cloud Singapore Private Limited
-8.222.159.134,12483,SG,Alibaba Cloud Singapore Private Limited
-8.222.178.214,6666,SG,Alibaba Cloud Singapore Private Limited
-8.222.237.72,443,SG,Alibaba Cloud Singapore Private Limited
 83.142.30.4,2096,SG,Zappie Host LLC
 83.142.30.4,2096,SG,Zappie Host LLC
-45.76.179.81,443,SG,Vultr Holdings LLC
-139.180.191.96,31001,SG,SGPVULTRCUST
-129.150.61.72,443,SG,Oracle Corporation
-140.245.53.130,443,SG,Oracle Corporation
+140.245.97.193,443,SG,Oracle Corporation
+140.245.59.102,8443,SG,Oracle Corporation
+213.35.107.220,460,SG,Oracle Corporation
+140.245.126.14,24057,SG,Oracle Corporation
+158.178.230.113,8443,SG,Oracle Corporation
+146.235.18.248,45137,SG,Oracle Corporation
+168.138.167.65,21397,SG,Oracle Corporation
+129.150.52.89,10633,SG,Oracle Corporation
+168.138.163.76,48444,SG,Oracle Corporation
+158.178.242.37,39925,SG,Oracle Corporation
+138.2.88.16,10633,SG,Oracle Corporation
 158.178.246.142,61731,SG,Oracle Corporation
 158.178.243.152,61731,SG,Oracle Corporation
 129.150.35.29,587,SG,Oracle Corporation
-129.150.50.21,44009,SG,Oracle Corporation
-138.2.100.221,26621,SG,Oracle Corporation
-138.2.107.107,443,SG,Oracle Corporation
-138.2.101.213,15204,SG,Oracle Corporation
-138.2.75.219,39341,SG,Oracle Corporation
 138.2.69.236,23334,SG,Oracle Corporation
 138.2.81.243,45319,SG,Oracle Corporation
-138.2.90.127,55555,SG,Oracle Corporation
 138.2.95.33,17465,SG,Oracle Corporation
-139.162.51.138,2053,SG,1391620016
-139.162.51.138,8443,SG,1391620016
-15.235.199.103,2053,SG,OVH Singapore PTE LTD
-15.235.199.103,8443,SG,OVH Singapore PTE LTD
-51.79.134.207,443,SG,OVH SAS
 213.35.108.135,12596,SG,Oracle Svenska AB
 213.35.100.31,47112,SG,Oracle Svenska AB
 213.35.107.73,443,SG,Oracle Svenska AB
-142.111.15.104,443,US,Ace Data Centers II, L.L.C.
+103.195.189.214,51200,SG,Dromatics Systems Pte Ltd
+103.195.188.137,15601,SG,Dromatics Systems Pte Ltd
+103.195.188.220,15603,SG,Dromatics Systems Pte Ltd
+103.195.188.220,15604,SG,Dromatics Systems Pte Ltd
+103.195.188.220,15605,SG,Dromatics Systems Pte Ltd
+45.127.32.57,15615,SG,Dromatics Systems Pte Ltd
+103.195.191.65,54450,SG,Dromatics Systems Pte Ltd
+103.195.188.221,15626,SG,Dromatics Systems Pte Ltd
+45.127.34.134,11375,SG,Dromatics Systems Pte Ltd
+64.176.81.163,1443,SG,The Constant Company, LLC
+139.180.154.158,443,SG,The Constant Company, LLC
+149.28.158.103,10030,SG,The Constant Company, LLC
+207.148.121.53,18443,SG,The Constant Company, LLC
+149.28.159.222,443,SG,The Constant Company, LLC
+45.76.177.77,6003,SG,The Constant Company, LLC
+45.76.177.77,6001,SG,The Constant Company, LLC
 44.227.209.152,443,US,Amazoncom Inc
-45.11.93.3,2053,US,as56971 network
-45.142.159.9,9991,US,Spartan Host Ltd
 45.151.133.104,16000,US,Spartan Host Ltd
 45.151.133.125,16478,US,Spartan Host Ltd
 45.151.133.125,41389,US,Spartan Host Ltd
 45.151.133.125,27398,US,Spartan Host Ltd
-45.150.65.209,443,US,WorkTitans BV
-45.150.65.38,443,US,WorkTitans BV
-45.152.84.197,8443,US,IT Outsourcing LLC
-45.152.86.150,2053,US,as56971 network
-128.14.140.2,55555,US,ZENLA1
 88.210.37.244,8443,US,Melbikomas UAB
-23.239.2.154,8443,US,Linode
 121.85.55.59,19842,JP,OPTAGE Inc
 118.27.12.40,38443,JP,GMO Internet Group Inc
-8.221.143.218,587,JP,Alibaba Cloud Singapore Private Limited
 45.11.1.118,44004,JP,CEGRGODigitalVM LLC  Tokyo
-122.210.19.25,28045,JP,UCOM Corporation
-122.210.19.25,20087,JP,UCOM Corporation
-122.210.19.25,38647,JP,UCOM Corporation
-122.210.19.25,21807,JP,UCOM Corporation
 43.252.41.204,2443,HK,CommuniLink Internet Ltd
 8.218.36.133,9010,HK,Alibaba Cloud Singapore Private Limited
-43.155.20.137,8250,HK,Tencent cloud computing Beijing Co Ltd
-112.173.109.151,50001,KR,Korea Telecom
-112.172.38.246,10554,KR,Korea Telecom
-112.170.255.67,50001,KR,Korea Telecom
-112.173.109.151,50000,KR,Korea Telecom
-112.173.102.47,10000,KR,Korea Telecom
-112.170.112.178,15846,KR,Korea Telecom
-112.170.112.178,12468,KR,Korea Telecom
-112.170.112.178,36702,KR,Korea Telecom
-112.170.112.178,12404,KR,Korea Telecom
-112.170.112.178,27023,KR,Korea Telecom
-112.170.112.178,28154,KR,Korea Telecom
-112.170.112.178,27621,KR,Korea Telecom
-112.173.185.16,30010,KR,Korea Telecom
 112.184.192.250,50001,KR,Korea Telecom
-112.184.45.203,50000,KR,Korea Telecom
-66.103.211.203,10096,US,MULTACOM CORPORATION
-65.87.7.163,443,US,Private Customer
-65.75.194.43,10511,US,Cloud Fabric Inc
-1.223.51.202,50000,KR,LG DACOM Corporation
 176.57.69.130,443,NL,Podaon SIA
-1.212.245.124,50001,KR,LG DACOM Corporation
-1.214.208.5,50000,KR,LG DACOM Corporation
-1.222.81.98,50000,KR,LG DACOM Corporation
 194.87.130.44,8443,NL,JSC TIMEWEB
 1.215.12.155,50001,KR,LG DACOM Corporation
-31.15.18.11,8443,NL,CGI GLOBAL LIMITED
 31.15.17.129,2053,NL,CGI GLOBAL LIMITED
-1.228.127.71,10023,KR,SK Broadband Co Ltd
-1.228.127.71,20500,KR,SK Broadband Co Ltd
 31.15.18.26,8443,NL,CGI GLOBAL LIMITED
 1.226.227.169,50001,KR,SK Broadband Co Ltd
-31.15.17.75,2053,NL,CGI GLOBAL LIMITED
-1.228.127.71,12127,KR,SK Broadband Co Ltd
-1.228.127.71,12463,KR,SK Broadband Co Ltd
-1.221.209.28,50002,KR,LG DACOM Corporation
-31.15.18.65,8443,NL,CGI GLOBAL LIMITED
-1.226.148.216,50001,KR,SK Broadband Co Ltd
-31.15.18.11,2053,NL,CGI GLOBAL LIMITED
-1.177.76.215,10026,KR,LG HelloVision Corp
 31.15.17.129,8443,NL,CGI GLOBAL LIMITED
-31.15.17.154,443,NL,CGI GLOBAL LIMITED
 31.15.18.56,2053,NL,CGI GLOBAL LIMITED
-176.57.212.87,2053,NL,JSC TIMEWEB
-1.228.127.71,21266,KR,SK Broadband Co Ltd
 31.15.18.56,8443,NL,CGI GLOBAL LIMITED
-176.57.212.87,8443,NL,JSC TIMEWEB
 176.96.138.171,14000,DE,dataforest GmbH
-1.177.81.20,10243,KR,LG HelloVision Corp
 176.97.74.132,2053,EE,IROKO Networks Corporation
-176.98.40.196,443,NL,IROKO Networks Corporation
-1.177.76.215,12149,KR,LG HelloVision Corp
-1.176.172.75,50000,KR,LG HelloVision Corp
 176.223.138.135,2053,LT,UAB Interneto vizija
 176.96.138.171,8000,DE,dataforest GmbH
-31.15.18.38,2053,NL,CGI GLOBAL LIMITED
-1.177.76.215,17283,KR,LG HelloVision Corp
 176.97.74.51,2053,EE,IROKO Networks Corporation
 176.223.138.135,8443,LT,UAB Interneto vizija
 176.97.76.48,2053,RO,IROKO Networks Corporation
-176.97.76.144,22053,RO,IROKO Networks Corporation
-176.223.66.5,8080,TR,Tres Teknoloji AS
-31.15.18.65,2053,NL,CGI GLOBAL LIMITED
 123.52.67.143,10011,CN,CHINANET HENAN PROVINCE NETWORK
-176.97.76.164,22053,RO,IROKO Networks Corporation
 31.15.19.85,443,NL,Individual Entrepreneur Ildar Gilmutdinov
 1.238.209.247,50001,KR,SK Broadband Co Ltd
-1.233.162.148,50001,KR,SK Broadband Co Ltd
-101.235.209.154,50001,KR,HYUNDAI COMMUNICATIONS   NETWORK
 1.233.64.21,50001,KR,SK Broadband Co Ltd
 1.232.86.168,50001,KR,SK Broadband Co Ltd
 1.249.45.86,12112,KR,SK Broadband Co Ltd
 31.15.19.109,2053,NL,Individual Entrepreneur Ildar Gilmutdinov
-1.251.255.16,50001,KR,SK Broadband Co Ltd
 31.15.19.180,443,NL,Individual Entrepreneur Ildar Gilmutdinov
 31.15.19.109,8443,NL,Individual Entrepreneur Ildar Gilmutdinov
-1.232.134.158,50001,KR,SK Broadband Co Ltd
 1.237.51.17,50001,KR,SK Broadband Co Ltd
 31.15.19.199,443,NL,Individual Entrepreneur Ildar Gilmutdinov
 1.255.181.62,50001,KR,SK Broadband Co Ltd
 31.15.18.26,2053,NL,CGI GLOBAL LIMITED
-1.251.170.218,50001,KR,SK Broadband Co Ltd
 31.15.18.52,8443,NL,CGI GLOBAL LIMITED
-31.15.18.38,8443,NL,CGI GLOBAL LIMITED
-1.250.139.92,50003,KR,SK Broadband Co Ltd
 31.172.72.218,2053,DE,wwwfornexcom Fornex Hosting SL
-31.172.72.13,443,DE,wwwfornexcom Fornex Hosting SL
-31.172.71.184,443,DE,wwwfornexcom Fornex Hosting SL
-1.232.134.158,50000,KR,SK Broadband Co Ltd
-31.172.71.119,443,DE,wwwfornexcom Fornex Hosting SL
-31.172.71.113,443,DE,wwwfornexcom Fornex Hosting SL
-1.254.152.56,50001,KR,SK Broadband Co Ltd
 31.172.72.21,8443,DE,wwwfornexcom Fornex Hosting SL
-1.248.1.172,10032,KR,SK Broadband Co Ltd
 31.172.72.21,2053,DE,wwwfornexcom Fornex Hosting SL
-31.172.72.138,2053,DE,wwwfornexcom Fornex Hosting SL
 31.15.19.10,443,NL,Individual Entrepreneur Ildar Gilmutdinov
-31.172.70.103,8443,DE,wwwfornexcom Fornex Hosting SL
 31.172.73.59,443,DE,wwwfornexcom Fornex Hosting SL
 31.172.73.104,2053,DE,wwwfornexcom Fornex Hosting SL
-31.172.73.19,2053,DE,wwwfornexcom Fornex Hosting SL
 31.172.71.72,443,DE,wwwfornexcom Fornex Hosting SL
-31.172.73.19,8443,DE,wwwfornexcom Fornex Hosting SL
-176.97.77.217,443,SE,IROKO Networks Corporation
-176.97.77.10,8443,SE,IROKO Networks Corporation
-1.248.1.172,10011,KR,SK Broadband Co Ltd
-31.172.79.112,443,US,wwwfornexcom Fornex Hosting SL
-31.172.78.80,8443,NL,wwwfornexcom Fornex Hosting SL
-31.15.19.38,2053,NL,Individual Entrepreneur Ildar Gilmutdinov
-103.102.228.121,2053,NL,Individual Entrepreneur Anton Levin
-31.172.75.222,443,DE,wwwfornexcom Fornex Hosting SL
-31.172.75.201,443,DE,wwwfornexcom Fornex Hosting SL
-31.207.44.8,443,NL,HOSTKEY BV
 178.130.41.133,443,NL,Amsterdam Netherlands
 178.130.40.109,8443,NL,Amsterdam Netherlands
 178.130.41.124,8443,NL,Amsterdam Netherlands
@@ -252,9 +280,8 @@
 31.184.242.53,2053,NL,Petersburg Internet Network ltd
 178.130.42.242,443,NL,Amsterdam Netherlands
 31.184.242.53,8443,NL,Petersburg Internet Network ltd
-31.220.42.149,8443,NL,HostHatch Inc
-31.172.78.69,443,NL,wwwfornexcom Fornex Hosting SL
-178.130.41.58,2053,NL,Amsterdam Netherlands
+31.172.71.72,443,DE,wwwfornexcom Fornex Hosting SL
+178.130.41.133,443,NL,Amsterdam Netherlands
 103.102.231.121,2053,FR,Jules DurandArnaudet
 31.220.42.149,2053,NL,HostHatch Inc
 103.102.231.115,2053,FR,Jules DurandArnaudet
