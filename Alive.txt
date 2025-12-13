@@ -64,7 +64,7 @@
 110.232.84.194,39738,ID,PT. Media Antar Nusa
 202.155.138.5,36455,ID,PT. Media Antar Nusa
 103.6.207.108,8080,ID,PT Pusat Media Indonesia
-43.218.77.16,443,ID,Amazoncom Inc.
+43.218.77.16,443,ID,Amazon.com Inc.
 43.218.77.16,1443,ID,Amazon.com, Inc.
 172.232.234.20,443,ID,Akamai Technologies, Inc.
 172.232.234.20,12306,ID,Akamai Technologies, Inc.
