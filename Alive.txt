@@ -32,6 +32,25 @@
 103.87.70.156,11211,ID,PT Abhinawa Sumberdaya Asia
 103.87.70.156,11215,ID,PT Abhinawa Sumberdaya Asia
 103.87.70.156,11222,ID,PT Abhinawa Sumberdaya Asia
+45.196.29.166,443,ID,Cloudflare, Inc.
+45.196.29.120,443,ID,Cloudflare, Inc.
+45.196.29.177,443,ID,Cloudflare, Inc.
+45.196.29.253,443,ID,Cloudflare, Inc.
+45.196.29.87,443,ID,Cloudflare, Inc.
+45.196.29.153,443,ID,Cloudflare, Inc.
+45.196.29.208,443,ID,Cloudflare, Inc.
+45.196.29.139,443,ID,Cloudflare, Inc.
+45.196.29.135,443,ID,Cloudflare, Inc.
+45.196.29.213,443,ID,Cloudflare, Inc.
+45.196.29.213,443,ID,Cloudflare, Inc.
+45.196.29.196,443,ID,Cloudflare, Inc.
+45.196.29.223,443,ID,Cloudflare, Inc.
+45.196.29.60,443,ID,Cloudflare, Inc.
+45.196.29.207,443,ID,Cloudflare, Inc.
+45.196.29.197,443,ID,Cloudflare, Inc.
+45.196.29.41,443,ID,Cloudflare, Inc.
+45.196.29.13,443,ID,Cloudflare, Inc.
+45.196.29.124,443,ID,Cloudflare, Inc.
 45.196.29.81,443,ID,Cloudflare, Inc.
 45.196.29.178,443,ID,Cloudflare, Inc.
 45.196.29.161,443,ID,Cloudflare, Inc.
@@ -39,11 +58,17 @@
 45.196.29.209,443,ID,Cloudflare, Inc.
 45.196.29.93,443,ID,Cloudflare, Inc.
 45.196.29.52,443,ID,Cloudflare, Inc.
-8.215.57.14,443,ID,Alibaba (US) Technology Co., Ltd.
-8.215.62.115,4443,ID,Alibaba (US) Technology Co., Ltd.
+147.139.145.166,443,ID,Alibaba (US) Technology Co., Ltd.
+147.139.166.171,8443,ID,Alibaba (US) Technology Co., Ltd.
+147.139.210.131,8443,ID,Alibaba (US) Technology Co., Ltd.
+147.139.145.163,443,ID,Alibaba (US) Technology Co., Ltd.
+147.139.135.49,443,ID,Alibaba (US) Technology Co., Ltd.
+147.139.189.225,443,ID,Alibaba (US) Technology Co., Ltd.
+147.139.166.171,443,ID,Alibaba (US) Technology Co., Ltd.
+147.139.208.169,443,ID,Alibaba (US) Technology Co., Ltd.
 147.139.140.61,443,ID,Alibaba (US) Technology Co., Ltd.
-8.215.45.203,443,ID,Alibaba (US) Technology Co., Ltd.
-147.139.130.190,39738,ID,Alibaba (US) Technology Co., Ltd.
+147.139.214.102,443,ID,Alibaba (US) Technology Co., Ltd.
+8.215.62.115,4443,ID,Alibaba (US) Technology Co., Ltd.
 103.119.54.24,2083,ID,PT. Eka Mas Republik
 103.119.54.24,2087,ID,PT. Eka Mas Republik
 103.119.54.24,2096,ID,PT. Eka Mas Republik
@@ -66,9 +91,18 @@
 103.6.207.108,8080,ID,PT Pusat Media Indonesia
 43.218.77.16,443,ID,Amazon.com Inc.
 43.218.77.16,1443,ID,Amazon.com, Inc.
-172.232.234.20,443,ID,Akamai Technologies, Inc.
-172.232.234.20,12306,ID,Akamai Technologies, Inc.
-172.232.234.20,386,ID,Akamai Technologies, Inc.
+172.232.232.205,443,ID,Akamai Technologies, Inc.
+172.235.246.55,443,ID,Akamai Technologies, Inc.
+172.235.246.111,443,ID,Akamai Technologies, Inc.
+172.235.246.28,443,ID,Akamai Technologies, Inc.
+172.232.236.46,443,ID,Akamai Technologies, Inc.
+172.232.232.59,443,ID,Akamai Technologies, Inc.
+172.232.251.105,443,ID,Akamai Technologies, Inc.
+172.232.234.155,443,ID,Akamai Technologies, Inc.
+172.232.226.233,443,ID,Akamai Technologies, Inc.
+172.232.235.239,443,ID,Akamai Technologies, Inc.
+172.232.238.245,443,ID,Akamai Technologies, Inc.
+172.232.251.141,443,ID,Akamai Technologies, Inc.
 31.97.50.106,443,ID,Hostinger International Limited
 103.94.238.212,443,ID,PT Biznet Gio Nusantara
 103.178.153.100,443,ID,PT Herza Digital Indonesia
@@ -97,6 +131,15 @@
 46.254.92.27,443,ID,Cloudflare London, LLC
 46.254.93.246,443,ID,Cloudflare London, LLC
 130.94.93.23,443,ID,NTT America, Inc.
+45.89.107.219,443,MY,WorkTitans B.V.
+45.89.107.29,443,MY,WorkTitans B.V.
+45.89.107.146,443,MY,WorkTitans B.V.
+45.89.107.125,443,MY,WorkTitans B.V.
+45.89.107.200,443,MY,WorkTitans B.V.
+45.89.107.29,8443,MY,WorkTitans B.V.
+45.89.107.200,8443,MY,WorkTitans B.V.
+45.89.107.148,8443,MY,WorkTitans B.V.
+45.89.107.219,8443,MY,WorkTitans B.V.
 35.240.234.21,56821,SG,Google LLC
 34.124.247.140,32137,SG,Google LLC
 34.126.151.59,18201,SG,Google LLC
@@ -224,12 +267,17 @@
 149.28.159.222,443,SG,The Constant Company, LLC
 45.76.177.77,6003,SG,The Constant Company, LLC
 45.76.177.77,6001,SG,The Constant Company, LLC
+202.155.11.164,443,US,Ultahost, Inc.
+202.155.8.32,443,US,Ultahost, Inc.
+202.155.11.55,443,US,Ultahost, Inc.
+202.155.11.180,443,US,Ultahost, Inc.
 44.227.209.152,443,US,Amazoncom Inc
 45.151.133.104,16000,US,Spartan Host Ltd
 45.151.133.125,16478,US,Spartan Host Ltd
 45.151.133.125,41389,US,Spartan Host Ltd
 45.151.133.125,27398,US,Spartan Host Ltd
 88.210.37.244,8443,US,Melbikomas UAB
+202.155.12.184,8443,JP,Datacamp Limited
 121.85.55.59,19842,JP,OPTAGE Inc
 118.27.12.40,38443,JP,GMO Internet Group Inc
 45.11.1.118,44004,JP,CEGRGODigitalVM LLC  Tokyo
