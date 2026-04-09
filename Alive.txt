@@ -1,3 +1,5 @@
+218.33.84.173,443,ID,GLOBAL COMMUNICATION NETWORK LIMITED
+218.33.84.166,443,ID,GLOBAL COMMUNICATION NETWORK LIMITED
 218.33.89.143,11035,ID,GLOBAL COMMUNICATION NETWORK LIMITED
 218.33.89.143,21052,ID,GLOBAL COMMUNICATION NETWORK LIMITED
 218.33.89.248,21052,ID,GLOBAL COMMUNICATION NETWORK LIMITED
@@ -20,18 +22,6 @@
 218.33.89.118,11108,ID,GLOBAL COMMUNICATION NETWORK LIMITED
 218.33.89.65,11179,ID,GLOBAL COMMUNICATION NETWORK LIMITED
 218.33.89.178,11007,ID,GLOBAL COMMUNICATION NETWORK LIMITED
-103.87.70.156,11012,ID,PT Abhinawa Sumberdaya Asia
-103.87.70.156,11017,ID,PT Abhinawa Sumberdaya Asia
-103.87.70.156,11043,ID,PT Abhinawa Sumberdaya Asia
-103.87.70.156,11093,ID,PT Abhinawa Sumberdaya Asia
-103.87.70.156,11105,ID,PT Abhinawa Sumberdaya Asia
-103.87.70.156,11139,ID,PT Abhinawa Sumberdaya Asia
-103.87.70.156,11162,ID,PT Abhinawa Sumberdaya Asia
-103.87.70.156,11193,ID,PT Abhinawa Sumberdaya Asia
-103.87.70.156,11197,ID,PT Abhinawa Sumberdaya Asia
-103.87.70.156,11211,ID,PT Abhinawa Sumberdaya Asia
-103.87.70.156,11215,ID,PT Abhinawa Sumberdaya Asia
-103.87.70.156,11222,ID,PT Abhinawa Sumberdaya Asia
 45.196.29.166,443,ID,Cloudflare, Inc.
 45.196.29.120,443,ID,Cloudflare, Inc.
 45.196.29.177,443,ID,Cloudflare, Inc.
@@ -58,6 +48,22 @@
 45.196.29.209,443,ID,Cloudflare, Inc.
 45.196.29.93,443,ID,Cloudflare, Inc.
 45.196.29.52,443,ID,Cloudflare, Inc.
+154.205.159.78,443,ID,Kaopu Cloud HK Limited
+156.244.1.116,443,ID,Kaopu Cloud HK Limited
+154.205.158.249,443,ID,Kaopu Cloud HK Limited
+154.205.158.249,8443,ID,Kaopu Cloud HK Limited
+103.87.70.156,11012,ID,PT Abhinawa Sumberdaya Asia
+103.87.70.156,11017,ID,PT Abhinawa Sumberdaya Asia
+103.87.70.156,11043,ID,PT Abhinawa Sumberdaya Asia
+103.87.70.156,11093,ID,PT Abhinawa Sumberdaya Asia
+103.87.70.156,11105,ID,PT Abhinawa Sumberdaya Asia
+103.87.70.156,11139,ID,PT Abhinawa Sumberdaya Asia
+103.87.70.156,11162,ID,PT Abhinawa Sumberdaya Asia
+103.87.70.156,11193,ID,PT Abhinawa Sumberdaya Asia
+103.87.70.156,11197,ID,PT Abhinawa Sumberdaya Asia
+103.87.70.156,11211,ID,PT Abhinawa Sumberdaya Asia
+103.87.70.156,11215,ID,PT Abhinawa Sumberdaya Asia
+103.87.70.156,11222,ID,PT Abhinawa Sumberdaya Asia
 147.139.145.166,443,ID,Alibaba (US) Technology Co., Ltd.
 147.139.166.171,8443,ID,Alibaba (US) Technology Co., Ltd.
 147.139.210.131,8443,ID,Alibaba (US) Technology Co., Ltd.
@@ -69,6 +75,8 @@
 147.139.140.61,443,ID,Alibaba (US) Technology Co., Ltd.
 147.139.214.102,443,ID,Alibaba (US) Technology Co., Ltd.
 8.215.62.115,4443,ID,Alibaba (US) Technology Co., Ltd.
+103.119.54.24,443,ID,PT. Eka Mas Republik
+103.119.54.24,8443,ID,PT. Eka Mas Republik
 103.119.54.24,2083,ID,PT. Eka Mas Republik
 103.119.54.24,2087,ID,PT. Eka Mas Republik
 103.119.54.24,2096,ID,PT. Eka Mas Republik
@@ -79,6 +87,10 @@
 36.95.152.58,18134,ID,PT Telekomunikasi Indonesia
 203.194.112.119,2053,ID,CV Rumahweb Indonesia
 203.194.112.119,8443,ID,CV Rumahweb Indonesia
+202.155.138.3,443,ID,PT. Media Antar Nusa
+110.232.90.184,443,ID,PT. Media Antar Nusa
+202.155.138.201,443,ID,PT. Media Antar Nusa
+202.155.138.57,443,ID,PT. Media Antar Nusa
 110.232.84.127,39738,ID,PT. Media Antar Nusa
 110.232.84.139,39738,ID,PT. Media Antar Nusa
 110.232.84.141,39738,ID,PT. Media Antar Nusa
@@ -104,6 +116,10 @@
 172.232.238.245,443,ID,Akamai Technologies, Inc.
 172.232.251.141,443,ID,Akamai Technologies, Inc.
 31.97.50.106,443,ID,Hostinger International Limited
+103.150.197.217,8443,ID,PT Biznet Gio Nusantara
+103.150.191.145,8443,ID,PT Biznet Gio Nusantara
+103.127.98.136,8443,ID,PT Biznet Gio Nusantara
+103.196.152.253,443,ID,PT Biznet Gio Nusantara
 103.94.238.212,443,ID,PT Biznet Gio Nusantara
 103.178.153.100,443,ID,PT Herza Digital Indonesia
 104.106.206.213,443,ID,PT. INDOSAT Tbk
