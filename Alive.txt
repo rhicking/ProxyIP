@@ -1,3 +1,7 @@
+103.153.131.67,443,ID,Sekolah Tinggi Teknologi Kedirgantaraan Yogyakarta
+202.90.194.175,443,ID,PT INTERLINK TECHNOLOGY
+165.154.150.185,443,ID,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
+156.59.107.225,443,ID,Zenlayer Inc
 218.33.84.173,443,ID,GLOBAL COMMUNICATION NETWORK LIMITED
 218.33.84.166,443,ID,GLOBAL COMMUNICATION NETWORK LIMITED
 218.33.89.143,11035,ID,GLOBAL COMMUNICATION NETWORK LIMITED
@@ -48,6 +52,7 @@
 45.196.29.209,443,ID,Cloudflare, Inc.
 45.196.29.93,443,ID,Cloudflare, Inc.
 45.196.29.52,443,ID,Cloudflare, Inc.
+38.60.171.254,443,ID,Kaopu Cloud HK Limited
 154.205.159.78,443,ID,Kaopu Cloud HK Limited
 156.244.1.116,443,ID,Kaopu Cloud HK Limited
 154.205.158.249,443,ID,Kaopu Cloud HK Limited
@@ -101,7 +106,10 @@
 110.232.84.194,39738,ID,PT. Media Antar Nusa
 202.155.138.5,36455,ID,PT. Media Antar Nusa
 103.6.207.108,8080,ID,PT Pusat Media Indonesia
-43.218.77.16,443,ID,Amazon.com Inc.
+16.78.125.116,443,ID,Amazon.com, Inc.
+43.218.77.16,443,ID,Amazon.com, Inc.
+43.218.228.172,443,ID,Amazon.com, Inc.
+43.218.77.16,443,ID,Amazon.com, Inc.
 43.218.77.16,1443,ID,Amazon.com, Inc.
 172.232.232.205,443,ID,Akamai Technologies, Inc.
 172.235.246.55,443,ID,Akamai Technologies, Inc.
@@ -116,12 +124,20 @@
 172.232.238.245,443,ID,Akamai Technologies, Inc.
 172.232.251.141,443,ID,Akamai Technologies, Inc.
 31.97.50.106,443,ID,Hostinger International Limited
+103.31.204.172,443,ID,PT Biznet Gio Nusantara
+103.94.238.212,443,ID,PT Biznet Gio Nusantara
+103.103.22.64,443,ID,PT Biznet Gio Nusantara
+103.103.20.235,443,ID,PT Biznet Gio Nusantara
 103.150.197.217,8443,ID,PT Biznet Gio Nusantara
 103.150.191.145,8443,ID,PT Biznet Gio Nusantara
 103.127.98.136,8443,ID,PT Biznet Gio Nusantara
 103.196.152.253,443,ID,PT Biznet Gio Nusantara
 103.94.238.212,443,ID,PT Biznet Gio Nusantara
+103.168.147.211,443,ID,PT Herza Digital Indonesia
+103.168.147.226,443,ID,PT Herza Digital Indonesia
+103.168.146.207,443,ID,PT Herza Digital Indonesia
 103.178.153.100,443,ID,PT Herza Digital Indonesia
+43.165.195.160,443,ID,Shenzhen Tencent Computer Systems Company Limited
 104.106.206.213,443,ID,PT. INDOSAT Tbk
 101.255.39.64,5434,ID,PT Remala Abadi
 70.153.80.70,25954,ID,Microsoft Corporation
